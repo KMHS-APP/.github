@@ -6,4 +6,4 @@
 
 ## Email
 - `me@nergis.dev`
-- ``
+- `ejchoi@kmh.hs.kr`
